@@ -1,8 +1,13 @@
-# Lossless Semantic Trees (LST)
+---
+slug: /
+---
 
-<figure>
-  ![](./assets/LST-comparison.png)
-  <figcaption>_LST comparison_</figcaption>
-</figure>
+VAR_NAME
 
-Some random text
+This is VAR_NAME inside a sentence.
+
+LINK
+
+MEOW
+
+MY_LINK
