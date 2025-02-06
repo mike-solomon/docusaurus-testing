@@ -1,3 +1,7 @@
+---
+slug: /
+---
+
 # Lossless Semantic Trees (LST)
 
 <figure>
